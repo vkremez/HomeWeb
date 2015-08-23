@@ -2,7 +2,7 @@
 
 * Ruby on Rails Application with Bootstrap Functions *
 * Developed By Vitali Kremez
-* This application uses 'amazing' button font 
+* This application uses 'awesome' button font 
 
 
 * Features In Production:
