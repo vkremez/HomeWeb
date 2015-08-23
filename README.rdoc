@@ -7,8 +7,9 @@
 
 * Features to in production:
 * 1. Backend database with SQL schema;
-* 2. Add photo library; and
-* 3. Add blogging features.
+* 2. Add contact feature;
+* 3. Add photo library; and
+* 4. Add blogging features.
 
 
 <tt>rake doc:app</tt>.
