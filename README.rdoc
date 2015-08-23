@@ -1,4 +1,4 @@
-== README ==
+== README
 
 * Ruby on Rails Application with Bootstrap Functions *
 * Developed By Vitali Kremez
