@@ -1,28 +1,14 @@
-== README
+== README ==
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
-
-Things you may want to cover:
-
-* Ruby version
-
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+* Ruby on Rails Application with Bootstrap Functions *
+* Developed By Vitali Kremez
+* This application uses 'amazing' button font 
 
 
-Please feel free to use a different markup language if you do not plan to run
+* Features to in production:
+* 1. Backend database with SQL schema;
+* 2. Add photo library; and
+* 3. Add blogging features.
+
+
 <tt>rake doc:app</tt>.
